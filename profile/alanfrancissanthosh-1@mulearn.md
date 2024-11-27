@@ -5,8 +5,8 @@
 I am a frontend developer aspiring to become a full stack developer. I am passionate about technology and enjoy creating generative AI applications. My key skills include programming, problem-solving, adaptability, and dedication.
 
 ### Portfolio Highlights
+[GitHub](https://github.com/alanfrancis442)
 
-<img src="https://mulearn.org/embed/rank/alanfrancissanthosh-1@mulearn" height="200"></img>
 
 #### History of Open Source Contributions:
 
@@ -53,4 +53,5 @@ Kerala's tech ecosystem has great potential to become a leading hub for innovati
 
 #### Profile Card:
 
-[GitHub](https://github.com/alanfrancis442)
+<img src="https://mulearn.org/embed/rank/alanfrancissanthosh-1@mulearn" height="200"></img>
+
